@@ -6,4 +6,4 @@ dataset:
     files: MANIFEST.yaml
     store: s3h://br.edu.ufcg.virtus.hp.mlaas.versioning
   name: dataset-ex
-  version: 5
+  version: 6
